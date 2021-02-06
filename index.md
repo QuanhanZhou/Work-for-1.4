@@ -5,7 +5,7 @@ My passion towards programming began quite late compared to some of my friends--
 I love fitness so much that I will spend up to 4 to 5 hours per week. I still maintain a record of daily exercise on an app for three years by now.I like reading. It’s something that I will not do regularly, but funny enough, every time a book catches my interest, I tend to spend all of my time in order to finish reading it. Pets like cats and dogs are something that I literally want to have. Unfortunately, my father is allergic to them, so no animals are allowed at home.  
 
 ## A picture of myself
-![](mypic.png)
+![](mypic.jpg)
 
 ## pics for 1.4
 ![](task1.4(1).png)
