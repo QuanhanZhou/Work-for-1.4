@@ -7,13 +7,5 @@ I love fitness so much that I will spend up to 4 to 5 hours per week. I still ma
 ## A picture of myself
 ![](mypic.jpg)
 
-## pics for 1.4
-![](task1.4(1).png)
-![](task1.4(2).png)
-![](task1.4.png)
-
-## pic for challenge question
-![](challenge.png)
-
 ## Informal response
 [challenge problem](challenge.md)
