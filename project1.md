@@ -3,4 +3,4 @@ The country I choose is Madagascar.
 ## challenge question
 ![](Madagascar.png)
 ## stretch goal2
-![](Antananarivo.png)
+[stretch2.md]
