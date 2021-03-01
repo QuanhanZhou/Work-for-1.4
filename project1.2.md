@@ -3,3 +3,5 @@
 [challenge question](challenge1.2.md)
 ## stretch goal 1
 [stretch goal1](stretch1.2(1).md)
+## stretch goal 2
+[stretch goal2](stretch1.2(2).md)
