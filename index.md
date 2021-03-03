@@ -14,5 +14,5 @@ I love fitness so much that I will spend up to 4 to 5 hours per week. I still ma
 [DS reflection#1](ds_reflection1.md)
 
 ## Projects
-[Project1](project1.md)
+[Project1](project1.md)  
 [Project1.2](project1.2.md)
