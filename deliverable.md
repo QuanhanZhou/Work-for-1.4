@@ -8,5 +8,4 @@ Eritrea's population condenses largely in the northwest part of the country with
 ## stretch goal 1
 ### This bar plot shows the share of population of subregions in Eritrea marked with different colours.
 ![](eri_adm2_bp.png)
-## stretch goal 2
-![](3d_movie.mp4)
+
