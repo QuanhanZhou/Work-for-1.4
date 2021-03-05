@@ -1,5 +1,5 @@
 # Creating a Geometric Bar Plot with your Simple Feature object
-## delivrable 
+## deliverable 
 ### The plot on the left shows the polulation and density of regions in Eritrea (in person/km^2).  
 ### The plot on the right shows the polulation and share of population of regions in Eritrea (in percentage).  
 Just remember to add the "fill" command into the ggplot, otherwise you will never be able to add colours into the plot.  
