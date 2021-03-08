@@ -11,7 +11,7 @@ I love fitness so much that I will spend up to 4 to 5 hours per week. I still ma
 [challenge problem](challenge.md)  
 
 ## Formal response
-[DS reflection#1](ds_reflection1.md)
+[DS reflection#1](ds_reflection1.md)  
 [DS reflection#2](ds_reflection2.md)
 
 ## Projects
