@@ -11,7 +11,7 @@ Residuals:
 
 Coefficients:
              Estimate Std. Error t value Pr(>|t|)    
-(Intercept) 5.997e+04  8.520e+03   7.038 6.43e-09 ***
+(Intercept) 5.997e+04  8.520e+03   7.038 6.43e-09 
 ntl         8.292e-01  4.715e-01   1.758    0.085 .  
 ---
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
@@ -30,7 +30,7 @@ Residuals:
 
 Coefficients:
              Estimate Std. Error t value Pr(>|t|)    
-(Intercept) 6.930e+04  7.023e+03   9.867 3.92e-13 ***
+(Intercept) 6.930e+04  7.023e+03   9.867 3.92e-13
 water       1.036e-04  3.186e-04   0.325    0.747    
 ---
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
