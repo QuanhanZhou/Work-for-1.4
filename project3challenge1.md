@@ -1,6 +1,6 @@
 # Project 3 Challenge 1
 ## Acquiring, Modifying, and Describing the Data: Eritrea
-### The plots below are two combined histogram with density plots that describe the correlationship between Eritrea’s population at the adm2 level as a dependent variable and two of the other variables.
+### The plots below are two combined histograms with overlapping density curve plots that describe the correlationship between Eritrea’s population at the adm2 level as a dependent variable and two of the other variables.
 This plot depicts the correlationship between log of population 2020 and density.  
 The distribution is approximately normal with the a little skewness to the left.
 ![](pdf1.png)  
