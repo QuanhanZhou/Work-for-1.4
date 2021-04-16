@@ -8,7 +8,7 @@
 ![](diff_mean.png)
 ![](diff_mean3d.png)
 ## logpop
-![](pop_logpop.png)
+![](pop_mean.png)
 ![](diff_logpop.png)
 ![](diff_logpop3d.png)
 ## eri_pop15
