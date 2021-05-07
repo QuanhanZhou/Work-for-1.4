@@ -1,0 +1,17 @@
+Prompt: Using these ideas from Aral, Georgescu-Roegen, and Geoff West as well as other sources from this semester (including your own personal insights and reflections),
+how is the advent of data science serving to advance our understanding of complex,
+adaptive, economic and social systems?
+
+If you ask me to rank the greatest advancement in science in 21st century, the advent of data science will inevitably be in the top 10 list. As pointed by Georgescu-Roegen, the evolution of data science does not simply “serve” for other subjects, it itself is the evolutionary system. Measuring everything at scale will not only improve our understanding in the universe, but we change our perspective to view our universe as the universe. 
+
+To some extent, data science plays a role of god. We have learned in this semester that thousands of new species of bacteria and other life forms were discovered by using high-speed sequencers and supercomputers to generate shotgun gene sequencing. Traditional subjects like biology, geology, or even history can coincide with data science to reveal the fundamental logic of complex systems in an easier way. 
+
+For individuals, the improvement of life quality has been significant. A wonderful example is how delivery helps us to maintain our life-saving equipment like food to cook and toilet paper to survive in this pandemic. The success of delivery companies should give credits to big data, gathered and supported by algorithms. Imagine the potential risk of getting covid if we have to buy (or even compete with others) everything in Walmart. Due to the advancement of data science, our delivery efficiency has been increased, consumer’s safety and comfortableness have been ensured. 
+
+Further implementations of data science have great possibility to take place in the future. We may employ it into sociology to understand better trends in a scale way. For instance, the study of reasons behind why newborn rate decreases significantly in developed countries can embrace data science to collect data more effectively. A soundful and thorough comprehension towards our complex social system will be incomplete without the help of data.
+
+However, the advancement of data doesn’t only bring convenience and happiness to our life, it may have some hinderances we are facing and will face in the future. One thing we have to consider is that increment of efficiency should not always accompany with decrement of privacy. Algorithms today have been developed smart enough to provide exactly what you need and want via advertisement. To accomplish this “consumer-friendly” goal, our personal data have to be collected and therefore privacy has to be sacrificed. 
+
+Another potential danger that I recognize is the humanity issue. High efficiency and availability bring a great excuse for everyone to stay within their comfort zone and thereby our connection to the surrounding will be reduced. For example, less contact with friend in person because you may meet online; less outdoor activities as you might get whatever you need via deliver services. I suppose that our living habits will change gradually accompanied by the advent of data science. Are we still humans if we, in extreme cases, stay in a small room for a whole life?
+
+Nevertheless, we have to acknowledge that data science will not stop its own pace of development. Humans, highly adaptive species, have to and will figure out a way to manipulate data where humanities are encouraged and privacies are respected.
