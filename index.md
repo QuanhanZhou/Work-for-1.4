@@ -23,4 +23,6 @@ I love fitness so much that I will spend up to 4 to 5 hours per week. I still ma
 [Project3](project3.md)  
 [Project4](project4.md)  
 ### Final project
-[Accessibility 1](project5.md)
+[Accessibility 1](project5.md)  
+[Accessibility 2](project6.md)  
+[Accessibility 3](project7.md)
